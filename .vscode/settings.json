@@ -1,0 +1,19 @@
+{
+  "workbench.colorTheme": "Monokai",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[markdown]": {
+   "editor.formatOnSave": false
+    },
+    //"[html]":{
+    //  "editor.formatOnSave: false
+    // },
+    "liveServer.settings.donotShowInfoMsg":true,
+    "liveServer.settings.donotVerifyTags": true,
+    "window.zoomLevel": 1
+}
